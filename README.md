@@ -1,20 +1,29 @@
-🌍 Travel Website
+🌍 Travel Website – HTML, CSS & JavaScript Project
 
-A simple and visually appealing HTML5, CSS3, and JavaScript based travel website showcasing multiple international destinations. This project highlights modern UI design, responsive layouts, and interactive features suitable for beginners and web development portfolio projects.
+A visually appealing and user-friendly Travel Website designed using HTML5, CSS3, and JavaScript. The website showcases multiple international destinations and provides essential travel-related information in a clean, structured, and responsive layout.
 
-🚀 Project Overview
+🔗 Live Website
 
-The Travel Website is built to provide users with brief travel information about various countries. Each destination has its own dedicated page, designed with clean layouts and smooth user navigation. The project demonstrates strong hands-on experience with:
+Visit the deployed website here:
+👉 https://sivakirlampalli.github.io/Travel/
 
-HTML5 for page structure
+This live site allows users to explore different travel destinations easily and navigate through multiple pages seamlessly.
 
-CSS3 for layout and styling
+📌 Project Overview
 
-JavaScript for interactivity
+This travel website is designed to offer a modern and interactive browsing experience for travelers. It includes:
 
-Responsive design across multiple pages
+Detailed pages for popular destinations (USA, Paris, Europe, Malaysia, Singapore, Switzerland)
 
-📁 Project Structure
+Search/navigation simplicity
+
+Smooth UI interactions
+
+Responsive layout suitable for desktops and mobile screens
+
+It also includes redirect options to external travel booking platforms like MakeMyTrip for planning trips.
+
+📁 File Structure
 Travel/
 │── index.html
 │── USA.html
@@ -26,42 +35,38 @@ Travel/
 │── travel.css
 │── travel.js
 
-✨ Features
-🧭 Multi-Page Navigation
+✨ Key Features
+🧭 Multi-Page Website
 
-Each destination (USA, Paris, Europe, Malaysia, Singapore, Switzerland) has its own HTML page linked through the homepage.
+Each destination has a dedicated HTML page linked from the homepage.
 
-🎨 Modern & Clean UI
+🎨 Modern UI with CSS3
 
-Designed using CSS3 with consistent colors, spacing, and layout styling across all pages.
+Attractive color scheme
 
-📱 Responsive Pages
+Clean typography
 
-Pages adjust well on laptops and mobile screens using basic responsive CSS techniques.
+Responsive sections
 
-⚡ JavaScript Interactivity
+Banner & layout styling
 
-Custom travel.js adds interactive elements such as:
+⚡ Interactive JavaScript
 
-Page effects
+travel.js adds small dynamic behaviors such as UI updates, effects, and improved user experience.
 
-Simple animations
+📱 Responsive Design
 
-UI enhancements
-
-💡 Easy to Extend
-
-New destinations can be added simply by creating a new HTML page and linking it to the homepage.
+Layouts adapt nicely across different screen sizes using CSS.
 
 🛠️ Technologies Used
 
-HTML5
+HTML5 – For semantic structure
 
-CSS3
+CSS3 – For styling, layout & responsiveness
 
-JavaScript
+JavaScript – For interactivity and UI behavior
 
-▶️ How to Run
+▶️ How to Run Locally
 
 Clone the repository:
 
@@ -70,9 +75,9 @@ git clone https://github.com/sivakirlampalli/Travel
 
 Open index.html in any browser.
 
-Navigate through the different country pages using the homepage links.
+Browse through the linked destination pages.
 
 📬 Contact
 
-For any questions or improvements:
-Email: sivakirlampalli04@gmail.com
+For any queries or suggestions:
+📧 sivakirlampalli04@gmail.com
